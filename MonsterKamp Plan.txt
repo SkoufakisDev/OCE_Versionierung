@@ -1,7 +1,0 @@
-Meilensteine:		Geplante Zeit:			Reele Zeit:
-Unit Basis Klasse	2h				
-Unit Goblin/Orc/Troll	2h				3h
-Programm Fight		3-4h				
-Input Debugging		4h
-
-
